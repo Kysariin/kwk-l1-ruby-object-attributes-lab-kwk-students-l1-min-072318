@@ -6,4 +6,4 @@ class Dog
   end
 end
 
-spot = Dog.new("Spot", "lab")
+
